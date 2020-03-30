@@ -1,4 +1,2 @@
-def first_number
-  1
-  
-end
+first_number = 1
+
